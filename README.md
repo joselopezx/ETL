@@ -1,8 +1,9 @@
 # ETL
 Extract, transform, load
-## Leer datos de CSV
-### Python
-#### Leer Excel
+
+## Python
+### Leer datos de CSV
+### Leer Excel
 Para leer ub excel es necesario importar pandas
 
 import pandas as pd
@@ -23,5 +24,7 @@ variable.sample(numero de datos aleatorios)
 parametro cols (rango) // en formato de excel ejp A:F
 
 nrows para obtener solo un numero especifo de filas
-### R
+## R
+### Leer CSV
+### Leer EXCEL
 
