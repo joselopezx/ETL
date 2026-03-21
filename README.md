@@ -26,8 +26,8 @@ parametro cols (rango) // en formato de excel ejp A:F
 nrows para obtener solo un numero especifo de filas
 ## R
 ### Leer CSV
-Para leer un CSV en el lenguaje R, es necesario tener instalado 'tidyverse', ya que este nos proporsiona la funcion 'read_csv()'
-`library("tidyverse")` Cargamos la libreria en el proyecto para ppoder utilizarla.
-`read_csv()` Nos permiete leer un archivo .csv, para ello especificamos la ruta del archivo entre comillas simples o dobles '' o "", dentro de los parentecis ( ).
+Para leer un CSV en el lenguaje R, es necesario tener instalado 'tidyverse', ya que este nos proporsiona la funcion 'read_csv()'  
+`library("tidyverse")` Cargamos la libreria en el proyecto para ppoder utilizarla.  
+`read_csv()` Nos permiete leer un archivo .csv, para ello especificamos la ruta del archivo entre comillas simples o dobles '' o "", dentro de los parentecis ( ).  
 ### Leer EXCEL
 
