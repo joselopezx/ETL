@@ -1,2 +1,27 @@
 # ETL
 Extract, transform, load
+## Leer datos de CSV
+### Python
+## Leer Excel
+Para leer ub excel es necesario importar pandas
+
+import pandas as pd
+
+pd.read_excel(nombre del archivo o ruta)
+
+pd.head(variable donde se guardo el data frame)
+
+pd.ExcelFile(variable donde se guardo el data frame).sheet_names // devuelve el nombre de las hojas del excel
+
+para abrir una hoja en especifico
+pd.read_excel(nombre archivo, sheet_name="nombre de hoja")
+
+variable.tail()
+
+variable.sample(numero de datos aleatorios)
+
+parametro cols (rango) // en formato de excel ejp A:F
+
+nrows para obtener solo un numero especifo de filas
+## R
+
