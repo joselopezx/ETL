@@ -1,3 +1,5 @@
+# Archivos y carpetas
+En este repositorio se encuentran carpetas con ejercicios en diferentes lenguajes de programacion, los datos para cada uno de los ejercicios estan en la carpeta principal 'ETL' ya sean CSV, XLSX, etc. 
 # ETL
 Extract, transform, load
 
