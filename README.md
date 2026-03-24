@@ -19,8 +19,8 @@ Para leer un excel es necesario importar pandas
 `nrows` Para obtener solo un numero especifo de filas  
 ## R
 ### Instalaciones 
-`install.packages("readxl")` Libreria para leer XLSX (excel)
-`install.packages("tidyverse")`
+`install.packages("readxl")` Libreria para leer XLSX (excel)  
+`install.packages("tidyverse")`  
 `library("tidyverse")` Cargamos la libreria en el proyecto para ppoder utilizarla (leer CSV).  
 `library(readxl)`  
 `library(jsonlite)`  
