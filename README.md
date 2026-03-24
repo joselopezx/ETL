@@ -22,10 +22,16 @@ Para leer un excel es necesario importar pandas
 `install.packages("readxl")` Libreria para leer XLSX (excel)
 `install.packages("tidyverse")`
 `library("tidyverse")` Cargamos la libreria en el proyecto para ppoder utilizarla (leer CSV).  
-``
+`library(readxl)`  
+`library(jsonlite)`  
+`library(rvest)`  
 ### Leer CSV
 Para leer un CSV en el lenguaje R, es necesario tener instalado 'tidyverse', ya que este nos proporsiona la funcion 'read_csv()'  
 `read_csv()` Nos permiete leer un archivo .csv, para ello especificamos la ruta del archivo entre comillas simples o dobles '' o "", dentro de los parentecis ( ).  
 ### Leer EXCEL
 `read_excel(ruta del archivo)` Nos permite leer un archivo xlsx, para la ruta del archivo es necesario utilizar comillas simples o dobles, ' ' o " "
+`read_excel("RUTA DEL ARCHIVO", sheet = "NOMBRE DE LA HOJA")` Leer una hija en especifico.  
+`fromJSON("datos.json")`  
+`read_html(url)`
+
 
