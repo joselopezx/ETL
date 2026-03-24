@@ -4,6 +4,7 @@ Extract, transform, load
 ## Python
 `import pandas as pd` Importamos la libreria pandas y la nombramos pd para llamarla sin necesidad de escribir pandas solo pd.  
 ### Leer datos de CSV
+`pd.read_csv('archivo csv')` Para leer un CSV con python, almacenarlo en una variable para poder modificarlo  
 ### Leer Excel
 Para leer un excel es necesario importar pandas  
 `pd.read_excel(nombre del archivo o ruta)`  
