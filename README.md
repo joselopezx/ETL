@@ -33,5 +33,7 @@ Para leer un CSV en el lenguaje R, es necesario tener instalado 'tidyverse', ya 
 `read_excel("RUTA DEL ARCHIVO", sheet = "NOMBRE DE LA HOJA")` Leer una hija en especifico.  
 `fromJSON("datos.json")`  
 `read_html(url)`
-
+### Funciones
+`fiter()`  
+`select()`  
 
