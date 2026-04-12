@@ -36,4 +36,4 @@ Para leer un CSV en el lenguaje R, es necesario tener instalado 'tidyverse', ya 
 ### Funciones
 `fiter()`  
 `select()`  
-
+`glimpse()` Da una descripcion de todas las columnas del dataframe
